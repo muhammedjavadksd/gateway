@@ -35,6 +35,8 @@ const BLOOD_ENDPOINT = process.env.BLOOD_ENDPOINT
 
 console.log("Profile service endpoint", PROFILE_ENDPOINT);
 
+console.log(FUND_RAISE_EDNPOINT);
+
 //middleware
 app.use("/api/auth", proxy(AUTH_ENDPOINT))
 app.use("/api/profile", proxy(PROFILE_ENDPOINT))
