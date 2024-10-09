@@ -4,12 +4,4 @@ Profile Endpoint :  http://localhost:7004
 Fund Raising Endpoint :  http://localhost:7005
 Blood Endpoint :  http://localhost:7007
 
-Module port: 7006
 
-
-S3 buckets
-blood-certificate
-file-bucket
-fund-raiser-pictures
-fund-raiser-documents
-tickt-attachment-bucket
